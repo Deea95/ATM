@@ -1,0 +1,79 @@
+.btn1 {
+-fx-background-image: url("0.png");
+}
+
+.btn2{
+-fx-background-image: url("1.png");
+}
+
+.btn3 {
+-fx-background-image: url("2.png");
+}
+
+.btn4{
+-fx-background-image: url("3.png");
+}
+
+.btn5 {
+-fx-background-image: url("4.png");
+}
+
+.btn6 {
+-fx-background-image: url("5.png");
+}
+
+.btn7 {
+-fx-background-image: url("6.png");
+}
+
+.btn8 {
+-fx-background-image: url("7.png");
+}
+
+.btn9 {
+-fx-background-image: url("8.png");
+}
+
+.btn10 {
+-fx-background-image: url("9.png");
+}
+
+.btn11 {
+-fx-background-image: url("gol1.png");
+}
+
+.btn12 {
+-fx-background-image: url("gol2.png");
+}
+
+.btn13 {
+-fx-background-image: url("gol3.png");
+}
+
+.btnCancel {
+-fx-background-image: url("cancel.png");
+}
+
+.btnClear {
+-fx-background-image: url("clear.png");
+}
+
+.btnEnter {
+-fx-background-image: url("enter.png");
+}
+
+.btnDreapta1 {
+-fx-background-image: url("dreapta.png");
+}
+
+.btnStanga1 {
+-fx-background-image: url("stanga.png");
+}
+
+.btnDreapta2 {
+-fx-background-image: url("dreapta.png");
+}
+
+.btnStanga2 {
+-fx-background-image: url("stanga.png");
+}
